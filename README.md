@@ -29,9 +29,20 @@ house-price-prediction/
 
 
 
+# House Price Prediction
+
+An end-to-end Machine Learning pipeline to predict house prices using Scikit-Learn and Random Forest Regression.
+
+## Features
+- Automated handling of numeric scaling and categorical one-hot encoding.
+- Robust missing value imputation.
+- Full Scikit-Learn `Pipeline` packaging for zero data leakage and simple deployment.
+- Evaluation metrics: MAE, RMSE, and $R^2$.
+
 ## Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)vinnueditx/house-price-prediction.git
+   git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/house-price-prediction.git
    cd house-price-prediction
+
