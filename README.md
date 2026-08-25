@@ -29,3 +29,9 @@ house-price-prediction/
 
 
 ---
+
+
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/vinnueditx/house-price-prediction.git
