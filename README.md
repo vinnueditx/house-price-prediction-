@@ -1,5 +1,3 @@
-# house-price-prediction-
-An end-to-end Machine Learning pipeline built with Scikit-Learn to predict residential property prices using Random Forest Regression. Features automated preprocessing, median/mode imputation, standard scaling, and one-hot encoding without data leakage, exporting a clean serialized model pipeline for production-ready inference
 
 # House Price Prediction
 
@@ -27,4 +25,21 @@ house-price-prediction/
 │   └── house_price_model.pkl   # Serialized model pipeline
 ├── train.py                    # Training & evaluation script
 ├── predict.py                  # Inference script
+
+
+
+---
+
+## Author
+
+**Vinnu**
+* **GitHub**: [@vinnueditx](https://github.com/vinnueditx)
+* **Instagram**: [@vinnueditx](https://instagram.com/vinnueditx)
+* **Project**: [house-price-prediction](https://github.com/vinnueditx/house-price-prediction)
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
