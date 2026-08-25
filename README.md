@@ -29,17 +29,3 @@ house-price-prediction/
 
 
 ---
-
-## Author
-
-**Vinnu**
-* **GitHub**: [@vinnueditx](https://github.com/vinnueditx)
-* **Instagram**: [@vinnueditx](https://instagram.com/vinnueditx)
-* **Project**: [house-price-prediction](https://github.com/vinnueditx/house-price-prediction)
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
