@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Large datasets and trained models
+data/*.csv
+models/*.pkl
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
