@@ -28,10 +28,10 @@ house-price-prediction/
 
 
 
----
 
-
+## Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vinnueditx/house-price-prediction.git
+   git clone [https://github.com/](https://github.com/)vinnueditx/house-price-prediction.git
+   cd house-price-prediction
